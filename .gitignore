@@ -1,0 +1,8 @@
+# Ignore all .tif input files
+*.tif
+*.tiff
+
+# Ignore outputs
+*.gif
+*.mp4
+frame.png
