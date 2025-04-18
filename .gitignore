@@ -1,6 +1,5 @@
 # Ignore all .tif input files
-*.tif
-*.tiff
+*.TIFF
 
 # Ignore outputs
 *.gif
